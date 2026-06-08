@@ -62,7 +62,8 @@ we all have to start somehwere to i thought to start my PCB,electronics journey 
 <img width="3264" height="2448" alt="image" src="https://github.com/user-attachments/assets/18105e5d-9ab5-43cd-9df3-a0cf09a0d0e3" />
 
 ## Magazine
-<img width="708" height="1000" alt="image" src="https://github.com/user-attachments/assets/ec15a235-2a0d-4e52-97fc-0c9bc3fb6156" />
+<img width="708" height="1000" alt="image" src="https://github.com/user-attachments/assets/707d1474-58ee-4da1-b8ed-6886e887f3fb" />
+
 
 
 
