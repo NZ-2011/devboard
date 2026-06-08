@@ -9,11 +9,31 @@
 > A compact, open-source development board powered by the **Raspberry Pi RP2040** — featuring a 12 MHz crystal oscillator, onboard 3.3V regulation, QSPI Flash, SWD debug header, and 40 broken-out GPIO pins. Built for makers, students, and engineers who want full control.
 
 ---
-
+## DEVBOARD
 <!-- 📸 BOARD PHOTO: Replace the line below with your actual board photo -->
-<!-- ![DevBoard 3D Render](assets/images/devboard-3d.png) -->
+<img width="3264" height="2448" alt="image" src="https://github.com/user-attachments/assets/b735687c-b51d-4a65-a09a-cb8ba18ef295" />
+
 
 > 📷 *3D render and PCB layout available in `/assets/images/`*
+
+# Purpose:
+it is like an small computer that can fit in ur hand.you plug it in your computer or Laptop to test the prototype or product ypur makimg.it is used to conmect lights,sensors,mototrs according to the code you write.
+
+# How to use it:
+1- install the software.and open it.
+
+2-plug the devboard in ur computer or laptop with a good USB cable (a normal cable will work too)
+
+3-upload ur first program
+
+4-connect real stuff. like LEDs,button etc
+(always unplug USB before toiching wires)
+
+
+# Why did i make it:
+we all have to start somehwere to i thought to start my PCB,electronics journey from here.i could have selected something easy but where is the fun in that so i decided to make a devboard.and also during this i learned how to use kicad and how to make a PCB,and some ways to fix errors.
+
+
 
 ---
 
@@ -32,10 +52,16 @@
 
 ---
 
-## 📐 Pinout Diagram
+## 📐 SCHEMATIC
+<img width="3264" height="2448" alt="image" src="https://github.com/user-attachments/assets/674bc5b9-9407-428d-ac6a-6a3dfed07c89" />
 
-<!-- 📸 PINOUT IMAGE: Export a labeled pinout from KiCad or make one in Canva/Figma -->
-<!-- ![Pinout](assets/images/devboard-pinout.png) -->
+## PCB Design
+<img width="3264" height="2448" alt="image" src="https://github.com/user-attachments/assets/37fe3ac6-4f6f-4480-bb00-610c6023fa22" />
+
+## 3D imagine
+<img width="3264" height="2448" alt="image" src="https://github.com/user-attachments/assets/18105e5d-9ab5-43cd-9df3-a0cf09a0d0e3" />
+
+
 
 | Left Header (J2) | Pin | Pin | Right Header (J3) |
 |---|---|---|---|
@@ -161,6 +187,7 @@ devboard/
 
 > 💡 Have an idea? [Open a feature request](https://github.com/NZ-2011/devboard/issues/new?template=feature_request.md)
 
+##Createdwith help of hackclub tutorial.
 ---
 
 ## Contributing
